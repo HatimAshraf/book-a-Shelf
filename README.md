@@ -120,18 +120,3 @@ If you spot a bug or have an idea, feel free to:
 MIT — use it freely, learn from it, and build cool stuff.
 
 ---
-
-## 👋 Say Hi
-
-If this helped you or you just want to say hi, you can find me [on GitHub](https://github.com/your-username). Happy coding!
-
-```
-
----
-
-### Notes:
-- Let me know if you're hosting the app somewhere so I can add a real live demo link.
-- You can also replace placeholders like screenshot URLs or GitHub usernames.
-
-Would you like help generating the folder structure or even setting up the backend and frontend boilerplate next?
-```
