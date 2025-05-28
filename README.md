@@ -99,7 +99,7 @@ mern-book-crud/
 
 There are tons of MERN tutorials, but most skip clarity for speed. This one is made to be:
 
-* **Beginner-friendly** – clean, readable code
+* **Beginner-friendly** – clean, readable-code
 * **Modular** – easy to expand on
 * **Realistic** – resembles actual full-stack app architecture
 
